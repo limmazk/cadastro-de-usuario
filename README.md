@@ -1,4 +1,4 @@
-<img width="1858" height="924" alt="image" src="https://github.com/user-attachments/assets/ce924f21-79ff-49bc-b886-9dffc73bba38" /># Sistema de Cadastro de Usuários
+# Sistema de Cadastro de Usuários
 
 Sistema completo de cadastro de usuários com frontend React e backend Node.js, utilizando MongoDB como banco de dados.
 
