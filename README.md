@@ -12,21 +12,20 @@ Sistema completo de cadastro de usuários com frontend React e backend Node.js, 
 ## Tecnologias Utilizadas
 
 ### Backend
-- **Node.js** - Runtime JavaScript
-- **Express** - Framework web para Node.js
-- **Prisma** - ORM para banco de dados
-- **MongoDB** - Banco de dados NoSQL
-- **CORS** - Middleware para controle de origem cruzada
+- <img align="center" alt="Arthur-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />  **Node.js** 
+- <img align="center" alt="Arthur-Express" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> **Express** 
+- <img align="center" alt="Arthur-Prisma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /> **Prisma** 
+- <img align="center" alt="Arthur-MongoDB" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /> **MongoDB**
 
 ### Frontend
-- **React** - Biblioteca JavaScript para UI
-- **Axios** - Cliente HTTP para requisições
-- **CSS** - Estilização da interface
+- <img align="center" alt="Arthur-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> **React**  
+- <img align="center" alt="Arthur-Axios" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" /> **Axios** 
+- <img align="center" alt="Arthur-Css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> **CSS** 
 
 
 ### Pré-requisitos
-- Node.js (versão 16 ou superior)
-- MongoDB (local ou MongoDB Atlas)
+- <img align="center" alt="Arthur-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> Node.js (versão 16 ou superior) 
+- <img align="center" alt="Arthur-MongoDB" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /> MongoDB (local ou MongoDB Atlas) 
 
 ### Backend
 
