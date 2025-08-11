@@ -2,6 +2,8 @@
 
 Sistema completo de cadastro de usuários com frontend React e backend Node.js, utilizando MongoDB como banco de dados.
 
+<img width="1872" height="918" alt="cadastro" src="https://github.com/user-attachments/assets/9bb980ac-632a-426c-8ceb-6160c36d5f55" />
+
 ## Funcionalidades
 
 - ✅ Cadastro de novos usuários
