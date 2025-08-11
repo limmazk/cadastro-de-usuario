@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Usuários
+<img width="1858" height="924" alt="image" src="https://github.com/user-attachments/assets/ce924f21-79ff-49bc-b886-9dffc73bba38" /># Sistema de Cadastro de Usuários
 
 Sistema completo de cadastro de usuários com frontend React e backend Node.js, utilizando MongoDB como banco de dados.
 
@@ -111,3 +111,11 @@ O frontend estará disponível em `http://localhost:5173`
 - Para projetos em produção, configure o CORS adequadamente
 - Existe um bug no endpoint PUT (`uptade` deveria ser `update`)
 - O sistema não possui validações robustas no backend
+
+- ## 👨‍💻 Autor
+
+Desenvolvido como projeto de estudo em React e Backend.
+
+## Contato:
+
+<a href="https://www.linkedin.com/in/arthur-lima-027581326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
