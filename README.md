@@ -14,7 +14,7 @@ Sistema completo de cadastro de usuários com frontend React e backend Node.js, 
 ## Tecnologias Utilizadas
 
 ### Backend
-- <img align="center" alt="Arthur-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />  **Node.js** 
+- <img align="center" alt="Arthur-Nod" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />  **Node.js** 
 - <img align="center" alt="Arthur-Express" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> **Express** 
 - <img align="center" alt="Arthur-Prisma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /> **Prisma** 
 - <img align="center" alt="Arthur-MongoDB" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /> **MongoDB**
